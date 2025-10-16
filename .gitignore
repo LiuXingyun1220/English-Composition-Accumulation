@@ -1,1 +1,7 @@
 .obsidian/workspace
+.obsidian/
+
+Thumbs.db
+
+*.bak
+*.tmp

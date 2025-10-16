@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b31c02b9094595ad",
@@ -196,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9d882f4adee4c406",
+  "active": "1a585149a28f198b",
   "lastOpenFiles": [
     "拟人.md",
     "词汇升级.md",
